@@ -113,7 +113,7 @@ Project screenshots can be found in the `screenshots/` folder.
 
 Java Full Stack Developer
 
-GitHub: *(Add your GitHub profile link after creating your repository.)*
+GitHub: *(https://github.com/Arshad-sh/ATS-SQL-Project)*
 
 ---
 
