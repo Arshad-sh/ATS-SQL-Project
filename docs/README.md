@@ -48,7 +48,7 @@ ATS-SQL-Project/
 │   ├── 09_Stored_Procedures.sql
 │   ├── 10_Triggers.sql
 │   ├── 11_Transactions.sql
-│   └── 12_Functions.sql
+│ 
 │
 ├── docs/
 ├── screenshots/
