@@ -1,0 +1,15 @@
+# Windows
+Thumbs.db
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.tmp
+*.log
+
+# VS Code
+.vscode/
+
+# MySQL Workbench temporary files
+*.bak
