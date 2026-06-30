@@ -103,7 +103,7 @@ The project contains the following tables:
 
 ## 📸 Screenshots
 
-Project screenshots can be found in the `screenshots/` folder.
+Project screenshots can be found in the `docs/screenshots/` folder.
 
 ---
 
